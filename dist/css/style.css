@@ -1,0 +1,66 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar-brand i {
+    color: #f75631 !important;
+}
+
+.nav-item a {
+    color: #5c5a54;
+}
+
+.nav-item button {
+    padding: 0 10px 0 10px;
+    border-radius: 15px;
+}
+
+.jumbotron {
+    background: white;
+}
+
+.btn {
+    background-color: #f75631;
+    border-color: #f75631;
+}
+
+.btn:hover {
+    background-color: #e04b28;
+    border-color: #e04b28;
+}
+
+.fontAwesome {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+}
+
+section {
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+}
+
+.service {
+    margin-top: -3rem;
+    background: #f5f5f5;
+    border-radius: 15px;
+}
+
+.row i {
+    color: #f75631;
+}
+
+/* 
+***********PLACEHOLDER COLOR************
+
+.form-control::-webkit-input-placeholder {
+    color: #f75631;
+  }
+*/
